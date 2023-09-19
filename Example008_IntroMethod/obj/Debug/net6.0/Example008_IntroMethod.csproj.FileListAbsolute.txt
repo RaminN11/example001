@@ -1,0 +1,15 @@
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.exe
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.deps.json
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.runtimeconfig.json
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.dll
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.pdb
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfo.cs
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.dll
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\obj\Debug\net6.0\refint\Example008_IntroMethod.dll
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.pdb
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.genruntimeconfig.cache
+C:\Users\Nurma\OneDrive\Рабочий стол\Examples(Введение в языки программирования)\Example008_IntroMethod\obj\Debug\net6.0\ref\Example008_IntroMethod.dll
